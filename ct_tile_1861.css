@@ -2,6 +2,15 @@
 #tile-61 .tile-title { display: none !important; }
 #tile-61 .tile-contents, #tile-61 .tile-primary { width: 100% !important; }
 #tile-61 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-2 .tile-title { display: none !important; }
+#tile-2 .tile-contents, #tile-2 .tile-primary { width: 100% !important; }
+#tile-2 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-3 .tile-title { display: none !important; }
+#tile-3 .tile-contents, #tile-3 .tile-primary { width: 100% !important; }
+#tile-3 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-4 .tile-title { display: none !important; }
+#tile-4 .tile-contents, #tile-4 .tile-primary { width: 100% !important; }
+#tile-4 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
 #tile-70 { border-radius: 0 0 14px 0 !important; }
 #tile-70 { width: calc(100% + 7px) !important; }
 #tile-70 { height: calc(100% + 7px) !important; }
