@@ -12,3 +12,17 @@
 #tile-85 .tile-title { display: none !important; }
 #tile-85 .tile-contents, #tile-85 .tile-primary { width: 100% !important; }
 #tile-85 { background-color: rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-84 { border-radius: 0 0 0 0 !important; }
+#tile-84 { width: calc(100% + 7px) !important; }
+#tile-84 { height: calc(100% + 7px + 7px) !important; }
+#tile-84 { margin-left: -7px !important; }
+#tile-84 { margin-top: -7px !important; }
+#tile-82 { border-radius: 14px 14px 0 0 !important; }
+#tile-82 { height: calc(100% + 7px) !important; }
+#tile-83 { border-radius: 0 0 0 0 !important; }
+#tile-83 { width: calc(100% + 7px) !important; }
+#tile-83 { height: calc(100% + 7px + 7px) !important; }
+#tile-83 { margin-top: -7px !important; }
+#tile-85 { border-radius: 0 0 14px 14px !important; }
+#tile-85 { height: calc(100% + 7px) !important; }
+#tile-85 { margin-top: -7px !important; }
