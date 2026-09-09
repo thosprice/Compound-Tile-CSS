@@ -12,6 +12,9 @@
 #tile-81 .tile-title { display: none !important; }
 #tile-81 .tile-contents, #tile-81 .tile-primary { width: 100% !important; }
 #tile-81 { background-color: rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-81 { border-radius: 0 0 14px 14px !important; }
+#tile-81 { height: calc(100% + 7px) !important; }
+#tile-81 { margin-top: -7px !important; }
 #tile-80 { border-radius: 0 0 0 0 !important; }
 #tile-80 { width: calc(100% + 7px) !important; }
 #tile-80 { height: calc(100% + 7px + 7px) !important; }
@@ -19,9 +22,6 @@
 #tile-80 { margin-top: -7px !important; }
 #tile-78 { border-radius: 14px 14px 0 0 !important; }
 #tile-78 { height: calc(100% + 7px) !important; }
-#tile-81 { border-radius: 0 0 14px 14px !important; }
-#tile-81 { height: calc(100% + 7px) !important; }
-#tile-81 { margin-top: -7px !important; }
 #tile-79 { border-radius: 0 0 0 0 !important; }
 #tile-79 { width: calc(100% + 7px) !important; }
 #tile-79 { height: calc(100% + 7px + 7px) !important; }
