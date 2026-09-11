@@ -9,3 +9,11 @@
 #tile-54 .tile-title { display: none !important; }
 #tile-54 .tile-contents, #tile-54 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-54 { background-color: rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-53 { border-radius: 0 0 0 0 !important; }
+#tile-53 { height: calc(100% + 7px + 7px) !important; }
+#tile-53 { margin-top: -7px !important; }
+#tile-55 { border-radius: 14px 14px 0 0 !important; }
+#tile-55 { height: calc(100% + 7px) !important; }
+#tile-54 { border-radius: 0 0 14px 14px !important; }
+#tile-54 { height: calc(100% + 7px) !important; }
+#tile-54 { margin-top: -7px !important; }
