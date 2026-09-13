@@ -4,19 +4,19 @@
 #tile-10 .tile-title { display: none !important; }
 #tile-10 .tile-contents, #tile-10 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-10 { background-color:  rgba(34,0,223,0.9) !important; border: none !important; }
-#tile-10 { border-radius: 1px 1px 0 0 !important; }
+#tile-10 { border-radius: 8px 8px 0 0 !important; }
 #tile-10 { height: calc(100% + 1px) !important; }
 #tile-11 .tile-title { display: none !important; }
 #tile-11 .tile-contents, #tile-11 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-11 { background-color:  rgba(34,0,223,0.9) !important; border: none !important; }
-#tile-11 { border-radius: 0 0 0 1px !important; }
+#tile-11 { border-radius: 0 0 0 8px !important; }
 #tile-11 { width: calc(100% + 1px) !important; }
 #tile-11 { height: calc(100% + 1px) !important; }
 #tile-11 { margin-top: -1px !important; }
 #tile-12 .tile-title { display: none !important; }
 #tile-12 .tile-contents, #tile-12 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-12 { background-color:  rgba(34,0,223,0.9) !important; border: none !important; }
-#tile-12 { border-radius: 0 0 1px 0 !important; }
+#tile-12 { border-radius: 0 0 8px 0 !important; }
 #tile-12 { width: calc(100% + 1px) !important; }
 #tile-12 { height: calc(100% + 1px) !important; }
 #tile-12 { margin-left: -1px !important; }
