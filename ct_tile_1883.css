@@ -2,7 +2,7 @@
 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); }
 #tile-56 .tile-title { display: none !important; }
 #tile-56 .tile-contents, #tile-56 .tile-primary { width: 100% !important; height: 100% !important; }
-#tile-56 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-56 { background-color:  rgba(255,255,255,1) !important; border: none !important; }
 #tile-56 { border-radius: 0 0 0 14px !important; }
 #tile-56 { width: calc(100% + 5px) !important; }
 #tile-56 { height: calc(100% + 5px) !important; }
@@ -10,12 +10,12 @@
 #tile-57 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; }
 #tile-57 .tile-title { display: none !important; }
 #tile-57 .tile-contents, #tile-57 .tile-primary { width: 100% !important; height: 100% !important; }
-#tile-57 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-57 { background-color:  rgba(255,255,255,1) !important; border: none !important; }
 #tile-57 { border-radius: 14px 14px 0 0 !important; }
 #tile-57 { height: calc(100% + 5px) !important; }
 #tile-58 .tile-title { display: none !important; }
 #tile-58 .tile-contents, #tile-58 .tile-primary { width: 100% !important; height: 100% !important; }
-#tile-58 { background-color:  rgba(34,100,223,0.9) !important; border: none !important; }
+#tile-58 { background-color:  rgba(255,255,255,1) !important; border: none !important; }
 #tile-58 { border-radius: 0 0 14px 0 !important; }
 #tile-58 { width: calc(100% + 5px) !important; }
 #tile-58 { height: calc(100% + 5px) !important; }
