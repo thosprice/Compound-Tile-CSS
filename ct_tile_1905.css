@@ -6,6 +6,7 @@
 #tile-13 { background-color: #ff64dfe6 !important; border: none !important; }
 #tile-13 { border-radius: 0px 0px 0 0 !important; }
 #tile-13 { height: calc(100% + 3px) !important; }
+#tile-13 { height: 50 !important; }
 #tile-14 .tile-title { display: none !important; }
 #tile-14 .tile-contents, #tile-14 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-14 { background-color: #ff64dfe6 !important; border: none !important; }
