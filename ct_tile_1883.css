@@ -13,6 +13,7 @@
 #tile-57 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-57 { border-radius: 14px 14px 0 0 !important; }
 #tile-57 { height: calc(100% + 5px) !important; }
+#tile-57 { height: 50 !important; }
 #tile-58 .tile-title { display: none !important; }
 #tile-58 .tile-contents, #tile-58 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-58 { background-color: #2264dfe6 !important; border: none !important; }
