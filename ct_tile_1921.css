@@ -4,11 +4,11 @@
 #tile-56 .tile-title { display: none !important; }
 #tile-56 .tile-contents, #tile-56 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-56 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-56 { border-radius: 14px 14px 0 0 !important; }
+#tile-56 { border-radius: 10px 10px 0 0 !important; }
 #tile-56 { height: calc(100% + 7px) !important; }
 #tile-57 .tile-title { display: none !important; }
 #tile-57 .tile-contents, #tile-57 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-57 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-57 { border-radius: 0 0 14px 14px !important; }
+#tile-57 { border-radius: 0 0 10px 10px !important; }
 #tile-57 { height: calc(100% + 7px) !important; }
 #tile-57 { margin-top: -7px !important; }
