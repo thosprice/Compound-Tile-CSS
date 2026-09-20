@@ -4,19 +4,19 @@
 #tile-53 .tile-title { display: none !important; }
 #tile-53 .tile-contents, #tile-53 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-53 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-53 { border-radius: 14px 14px 0 0 !important; }
+#tile-53 { border-radius: 10px 10px 0 0 !important; }
 #tile-53 { height: calc(100% + 7px) !important; }
 #tile-54 .tile-title { display: none !important; }
 #tile-54 .tile-contents, #tile-54 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-54 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-54 { border-radius: 0 0 0 14px !important; }
+#tile-54 { border-radius: 0 0 0 10px !important; }
 #tile-54 { width: calc(100% + 7px) !important; }
 #tile-54 { height: calc(100% + 7px) !important; }
 #tile-54 { margin-top: -7px !important; }
 #tile-55 .tile-title { display: none !important; }
 #tile-55 .tile-contents, #tile-55 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-55 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-55 { border-radius: 0 0 14px 0 !important; }
+#tile-55 { border-radius: 0 0 10px 0 !important; }
 #tile-55 { width: calc(100% + 7px) !important; }
 #tile-55 { height: calc(100% + 7px) !important; }
 #tile-55 { margin-left: -7px !important; }
