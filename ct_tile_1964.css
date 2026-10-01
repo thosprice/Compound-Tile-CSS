@@ -18,7 +18,6 @@
 #tile-59 { height: calc(100% + 7px) !important; }
 #tile-59 { margin-left: -7px !important; }
 #tile-59 { margin-top: -7px !important; }
-#tile-60 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 0px; text-shadow: none; opacity: 0.8; font-weight: 500; }
 #tile-60 .tile-title { display: none !important; }
 #tile-60 .tile-contents, #tile-60 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-60 { background-color: #2264dfe6 !important; border: none !important; }
