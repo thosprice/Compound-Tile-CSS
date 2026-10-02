@@ -24,14 +24,14 @@
 #tile-38 { height: calc(100% + 7px + 7px) !important; }
 #tile-38 { margin-left: -7px !important; }
 #tile-38 { margin-top: -7px !important; }
-#tile-112 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.9px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
+#tile-112 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.85px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-112 .tile-title { display: none !important; }
 #tile-112 .tile-contents, #tile-112 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-112 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-112 { border-radius: 14px 0 0 0 !important; }
 #tile-112 { width: calc(100% + 7px) !important; }
 #tile-112 { height: calc(100% + 7px) !important; }
-#tile-113 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.9px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
+#tile-113 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.85px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-113 .tile-title { display: none !important; }
 #tile-113 .tile-contents, #tile-113 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-113 { background-color: #2264dfe6 !important; border: none !important; }
@@ -39,7 +39,7 @@
 #tile-113 { width: calc(100% + 7px) !important; }
 #tile-113 { height: calc(100% + 7px + 7px) !important; }
 #tile-113 { margin-top: -7px !important; }
-#tile-114 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.9px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
+#tile-114 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 0.85px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-114 .tile-title { display: none !important; }
 #tile-114 .tile-contents, #tile-114 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-114 { background-color: #2264dfe6 !important; border: none !important; }
