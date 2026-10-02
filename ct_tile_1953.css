@@ -25,6 +25,7 @@
 #tile-77 { border-radius: 0 0 0 0 !important; }
 #tile-77 { width: calc(100% + 7px) !important; }
 #tile-77 { height: calc(100% + 7px + 7px) !important; }
+#tile-77 { margin-left: -7px !important; }
 #tile-77 { margin-top: -7px !important; }
 #tile-89 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; }
 #tile-89 .tile-title { display: none !important; }
@@ -37,15 +38,14 @@
 #tile-90 .tile-contents, #tile-90 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-90 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-90 { border-radius: 0 0 0 0 !important; }
-#tile-90 { width: calc(100% + 7px + 7px) !important; }
+#tile-90 { width: calc(100% + 7px) !important; }
 #tile-90 { height: calc(100% + 7px + 7px) !important; }
-#tile-90 { margin-left: -7px !important; }
 #tile-90 { margin-top: -7px !important; }
 #tile-91 .tile-title { display: none !important; }
 #tile-91 .tile-contents, #tile-91 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-91 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-91 { border-radius: 0 0 0 0 !important; }
-#tile-91 { width: calc(100% + 7px) !important; }
+#tile-91 { width: calc(100% + 7px + 7px) !important; }
 #tile-91 { height: calc(100% + 7px + 7px) !important; }
 #tile-91 { margin-left: -7px !important; }
 #tile-91 { margin-top: -7px !important; }
