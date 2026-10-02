@@ -11,9 +11,9 @@
 #tile-37 .tile-title { display: none !important; }
 #tile-37 .tile-contents, #tile-37 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-37 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-37 { border-radius: 0 0 14px 0 !important; }
+#tile-37 { border-radius: 0 0 0 0 !important; }
 #tile-37 { width: calc(100% + 7px) !important; }
-#tile-37 { height: calc(100% + 7px) !important; }
+#tile-37 { height: calc(100% + 7px + 7px) !important; }
 #tile-37 { margin-left: -7px !important; }
 #tile-37 { margin-top: -7px !important; }
 #tile-38 .tile-title { display: none !important; }
@@ -24,6 +24,12 @@
 #tile-38 { height: calc(100% + 7px + 7px) !important; }
 #tile-38 { margin-left: -7px !important; }
 #tile-38 { margin-top: -7px !important; }
+#tile-39 .tile-title { display: none !important; }
+#tile-39 .tile-contents, #tile-39 .tile-primary { width: 100% !important; height: 100% !important; }
+#tile-39 { background-color: #2264dfe6 !important; border: none !important; }
+#tile-39 { border-radius: 0 0 14px 14px !important; }
+#tile-39 { height: calc(100% + 7px) !important; }
+#tile-39 { margin-top: -7px !important; }
 #tile-112 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 16px !important; letter-spacing: 0.8px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-112 .tile-title { display: none !important; }
 #tile-112 .tile-contents, #tile-112 .tile-primary { width: 100% !important; height: 100% !important; }
@@ -43,7 +49,7 @@
 #tile-114 .tile-title { display: none !important; }
 #tile-114 .tile-contents, #tile-114 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-114 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-114 { border-radius: 0 0 0 14px !important; }
+#tile-114 { border-radius: 0 0 0 0 !important; }
 #tile-114 { width: calc(100% + 7px) !important; }
-#tile-114 { height: calc(100% + 7px) !important; }
+#tile-114 { height: calc(100% + 7px + 7px) !important; }
 #tile-114 { margin-top: -7px !important; }
