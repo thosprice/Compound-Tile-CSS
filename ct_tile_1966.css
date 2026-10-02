@@ -32,7 +32,8 @@
 #tile-29 { border-radius: 0 0 14px 14px !important; }
 #tile-29 { height: calc(100% + 7px) !important; }
 #tile-29 { margin-top: -7px !important; }
-#tile-95 .tile-title { color: #ffffff !important; text-shadow: 0 1px 3px rgba(0,0,0,0.9) !important; font-size: 13.3px !important; letter-spacing: 1px !important; text-shadow: none !important; opacity: 0.8 !important; font-weight: 500 !important; }
+#tile-95 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; }
+#tile-95 .tile-title { display: none !important; }
 #tile-95 .tile-contents, #tile-95 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-95 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-95 { border-radius: 0 0 0 0 !important; }
