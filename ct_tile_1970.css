@@ -5,7 +5,7 @@
 #tile-31 .tile-contents, #tile-31 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-31 { background-color: #2264dfe6 !important; border: none !important; }
 #tile-31 { border-radius: 14px 14px 14px 14px !important; }
-#tile-33 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; }
+#tile-33 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8 !important; font-weight: 500; }
 #tile-33 .tile-title { display: none !important; }
 #tile-33 .tile-contents, #tile-33 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-33 { background-color: #2264dfe6 !important; border: none !important; }
