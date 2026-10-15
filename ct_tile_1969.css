@@ -65,7 +65,6 @@
 #tile-126 { width: calc(100% + 7px) !important; }
 #tile-126 { height: calc(100% + 7px + 7px) !important; }
 #tile-126 { margin-top: -7px !important; }
-#tile-127 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; }
 #tile-127 .tile-title { display: none !important; }
 #tile-127 .tile-contents, #tile-127 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-127 { background-color: #2264dfe6 !important; border: none !important; }
