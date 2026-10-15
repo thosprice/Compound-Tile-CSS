@@ -9,12 +9,12 @@
 #tile-72 .tile-title { display: none !important; }
 #tile-72 .tile-contents, #tile-72 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-72 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-72 { border-radius: 0 0 14px 14px !important; }
-#tile-72 { height: calc(100% + 7px) !important; }
+#tile-72 { border-radius: 0 0 0 0 !important; }
+#tile-72 { height: calc(100% + 7px + 7px) !important; }
 #tile-72 { margin-top: -7px !important; }
 #tile-86 .tile-title { display: none !important; }
 #tile-86 .tile-contents, #tile-86 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-86 { background-color: #2264dfe6 !important; border: none !important; }
-#tile-86 { border-radius: 0 0 0 0 !important; }
-#tile-86 { height: calc(100% + 7px + 7px) !important; }
+#tile-86 { border-radius: 0 0 14px 14px !important; }
+#tile-86 { height: calc(100% + 7px) !important; }
 #tile-86 { margin-top: -7px !important; }
