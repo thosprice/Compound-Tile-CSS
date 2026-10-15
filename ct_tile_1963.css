@@ -31,7 +31,6 @@
 #tile-108 { width: calc(100% + 7px) !important; }
 #tile-108 { height: calc(100% + 7px + 7px) !important; }
 #tile-108 { margin-top: -7px !important; }
-#tile-109 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-109 .tile-title { display: none !important; }
 #tile-109 .tile-contents, #tile-109 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-109 { background-color: #2264dfe6 !important; border: none !important; }
@@ -40,7 +39,6 @@
 #tile-109 { height: calc(100% + 7px + 7px) !important; }
 #tile-109 { margin-top: -7px !important; }
 #tile-109 { height:     !important; }
-#tile-110 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-110 .tile-title { display: none !important; }
 #tile-110 .tile-contents, #tile-110 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-110 { background-color: #2264dfe6 !important; border: none !important; }
