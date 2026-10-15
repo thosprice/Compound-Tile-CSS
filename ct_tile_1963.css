@@ -46,7 +46,7 @@
 #tile-110 { width: calc(100% + 7px) !important; }
 #tile-110 { height: calc(100% + 7px) !important; }
 #tile-110 { margin-top: -7px !important; }
-#tile-117 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
+#tile-117 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500;  ; letter-spacing: 0.4px; }
 #tile-117 .tile-title { display: none !important; }
 #tile-117 .tile-contents, #tile-117 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-117 { background-color: #2264dfff !important; border: none !important; }
