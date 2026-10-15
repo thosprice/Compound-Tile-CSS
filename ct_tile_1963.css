@@ -24,7 +24,6 @@
 #tile-36 { height: calc(100% + 7px + 7px) !important; }
 #tile-36 { margin-left: -7px !important; }
 #tile-36 { margin-top: -7px !important; }
-#tile-108 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 15px !important; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500;  margin-left: -5.5px !important; }
 #tile-108 .tile-title { display: none !important; }
 #tile-108 .tile-contents, #tile-108 .tile-primary { width: 100% !important; height: 100% !important; }
 #tile-108 { background-color: #2264dfe6 !important; border: none !important; }
