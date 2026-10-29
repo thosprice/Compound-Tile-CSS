@@ -9,6 +9,7 @@
 #tile-58 { height: calc(100% + 7px + 7px) !important; }
 #tile-58 { margin-left: -7px !important; }
 #tile-58 { margin-top: -7px !important; }
+#tile-58 { height: 13.3 px !important; }
 #tile-59 .ct-title-overlay { color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.9); font-size: 13.3px; letter-spacing: 1px; text-shadow: none; opacity: 0.8; font-weight: 500; letter-spacing: 0.4px; }
 #tile-59 .tile-title { display: none !important; }
 #tile-59 .tile-contents, #tile-59 .tile-primary { width: 100% !important; height: 100% !important; }
